@@ -1,3 +1,4 @@
 # skillx.github.io
 
-Here I have created a simple website using HTML, CSS and javascript
+
+A simple website totally build on HTML, CSS and JavaScript.
